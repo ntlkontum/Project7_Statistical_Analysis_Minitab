@@ -1,0 +1,2 @@
+# Project7_Statistical_Analysis_Minitab
+Minitab Project
